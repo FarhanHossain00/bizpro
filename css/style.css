@@ -1976,6 +1976,13 @@ textarea {
 
     .skill-section  .skill-bar h6{font-size: 14px; margin-bottom:6px}
     .skill-section .skill-bar .barfiller{height: 25px; margin-bottom: 18px}
+
+    .section-header{
+        width: 100%;
+    }
+    .section-header p{
+        width:95%;
+    }
 }
 
 
