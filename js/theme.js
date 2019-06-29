@@ -116,7 +116,7 @@ $(document).ready(function () {
     dots: false,
     margin: 30,
     responsive: {
-      400: {
+      0: {
         items: 1,
         dots: true,
       },
