@@ -1990,6 +1990,17 @@ textarea {
     }
 }
 
+@media only screen and (max-width:767px){
+    .section-header h2.section-title{
+        font-size: 18px;
+    }
+    .section-header p{
+        width:95%;
+        text-align: justify;
+        text-align-last: center;
+    }
+
+}
 
 
 @media only screen and (max-width:575px){
