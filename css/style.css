@@ -1980,8 +1980,12 @@ textarea {
     .section-header{
         width: 100%;
     }
+    .section-header h2{
+        font-size: 18px;
+    }
     .section-header p{
         width:95%;
+        text-align: justify;
     }
 }
 
